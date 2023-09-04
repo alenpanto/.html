@@ -1,0 +1,24 @@
+ul{
+    list-style-type: none; 
+    margin:0;
+    padding:0;
+    background-color: pink;
+    overflow:hidden;
+    
+
+ }
+ li{
+    display:inline;
+    float:left;
+    
+ }
+ a{
+    display: block;
+    padding : 8px;
+    background-color: pink;
+    text-decoration: none;
+ }
+a:hover{
+    background-color: rgb(99, 18, 174);
+    color:rgb(251, 251, 251);
+}

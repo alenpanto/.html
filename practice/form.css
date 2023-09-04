@@ -1,0 +1,25 @@
+body{
+    background-image: url("./assets/bg.webp") ;
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+.login{
+    background-color: rgb(167, 177, 174);
+    width:300px;
+    align-items: center;
+    margin:0 auto;
+    padding: 20px;
+    border-radius: 70px;
+    color:rgb(179, 11, 11);
+}
+#center{
+   text-align: center;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    
+  }
